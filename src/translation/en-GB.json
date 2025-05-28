@@ -1,0 +1,17 @@
+{
+  "title": "Todays Weather Update",
+  "description": "Check the weather in your city.",
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "temperature": "Temperature",
+  "search": "Search",
+  "enter_city": "Enter your city",
+  "sunny_quote": "Dhoop me nikala na karo roop ki rani, Gora rang Kala na pad jaye..😉",
+  "rainy_quote": "Tip Tip barsa pani, pani ne aag lagayi..🌧️",
+  "winter_quote": "Sardi ka Mausam, mausam me baate teri, Ek chai mithi aur mithi yaadein teri..❄️",
+  "windy_quote": "Chale jese hawayein sanan sanan, ude jese parinde gagan gagan",
+  "thunder_quote": "Babuji zara dheere chalo, bijlee khadi yaha bijlee khadi⚡",
+  "english": "English",
+  "hindi": "Hindi",
+  "weather_icon": "Weather Icon"
+}
