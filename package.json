@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Code-By-Nikita.github.io/weather-update-app",
+  "homepage": "https://sushmita250217.github.io/weather-update-app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
